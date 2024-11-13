@@ -70,5 +70,7 @@ int main() {
 }
 ```
 # OUTPUT
+![image](https://github.com/user-attachments/assets/36086ebd-f67d-474b-9b76-696d5afb7bd6)
+
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
